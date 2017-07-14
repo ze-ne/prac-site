@@ -1,4 +1,7 @@
 
+title: my website
+description: just trying to make a website
+
 # Hello World!
 My name is ze-ne
 
@@ -26,3 +29,5 @@ As Kendrick said:
 > be humble
 
 ## THE END
+
+### FOR REALZ
